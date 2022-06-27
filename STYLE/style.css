@@ -12,3 +12,16 @@ body {
   background: white;
   padding: 1rem;
 }
+
+/*--------naviguation--------*/
+
+.navigation ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navigation li {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
